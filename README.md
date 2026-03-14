@@ -1,6 +1,6 @@
 # Sinusoidality Analysis and Noise Synthesis in Phase Vocoder Based Time-Stretching
 
-Ted Apel
+Ted Apel -- [Project page with sound examples](https://vud.org/projects/noisesynthesis/)
 
 A novel extension to the phase vocoder method of representing sound is presented in which the "sinusoidality" of spectral energy is estimated during analysis and employed to add noise to a time-stretched phase vocoder synthesis. Three methods of sinusoidality analysis are presented as well as a sinusoid and noise synthesis method which extends the phase vocoder method. This method allows for the noise characteristics of the original sound to be better maintained during time-stretching.
 
